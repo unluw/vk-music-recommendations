@@ -1,0 +1,38 @@
+﻿evaluation_id,query,song_id,artist,title,relevance_0_3
+1,Вечерняя прогулка,65,Bicep,Lemonder,2
+2,Вечерняя прогулка,66,Overmono,After The Rain,3
+3,Вечерняя прогулка,43,Sabrina Carpenter,Manchild,3
+4,Вечерняя прогулка,62,beabadoobee,Beaches,3
+5,Вечерняя прогулка,60,The Marías,Back To Me,3
+6,Вечерняя прогулка,38,Татьяна Куртукова,Матушка,2
+7,Вечерняя прогулка,15,"Баста, Моя Мишель",Если я буду танцевать,3
+8,Вечерняя прогулка,61,The Marías,Nobody New,3
+9,Тренировка,43,Sabrina Carpenter,Manchild,2
+10,Тренировка,62,beabadoobee,Beaches,2
+11,Тренировка,15,"Баста, Моя Мишель",Если я буду танцевать,3
+12,Тренировка,2,"Дора, Toxi$",ЗНАК,3
+13,Тренировка,41,Chappell Roan,The Giver,3
+14,Тренировка,65,Bicep,Lemonder,2
+15,Тренировка,63,Arctic Monkeys,I Bet You Look Good on the Dancefloor (Live),3
+16,Тренировка,57,Fontaines D.C.,Demolition,3
+17,Тренировка,58,Fontaines D.C.,Happy For You,2
+18,Вечеринка,43,Sabrina Carpenter,Manchild,3
+19,Вечеринка,62,beabadoobee,Beaches,2
+20,Вечеринка,66,Overmono,After The Rain,3
+21,Вечеринка,2,"Дора, Toxi$",ЗНАК,3
+22,Вечеринка,41,Chappell Roan,The Giver,2
+23,Вечеринка,65,Bicep,Lemonder,1
+24,Грустное настроение,43,Sabrina Carpenter,Manchild,0
+25,Грустное настроение,62,beabadoobee,Beaches,2
+26,Грустное настроение,46,Chappell Roan,"Good Luck, Babe!",3
+27,Грустное настроение,60,The Marías,Back To Me,3
+28,Грустное настроение,66,Overmono,After The Rain,1
+29,Грустное настроение,65,Bicep,Lemonder,3
+30,Грустное настроение,15,"Баста, Моя Мишель",Если я буду танцевать,0
+31,Спокойный отдых,38,Татьяна Куртукова,Матушка,1
+32,Спокойный отдых,44,Billie Eilish,BIRDS OF A FEATHER,3
+33,Спокойный отдых,65,Bicep,Lemonder,2
+34,Спокойный отдых,74,Cleo Sol,Let Me Cry,3
+35,Спокойный отдых,62,beabadoobee,Beaches,3
+36,Спокойный отдых,61,The Marías,Nobody New,3
+37,Спокойный отдых,73,Cleo Sol,Gentlewoman,3

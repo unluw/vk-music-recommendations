@@ -1,0 +1,51 @@
+﻿query,method,rank,song_id,artist,title,relevance_0_3
+Вечерняя прогулка,A,1,65,Bicep,Lemonder,2
+Вечерняя прогулка,A,2,66,Overmono,After The Rain,3
+Вечерняя прогулка,A,3,43,Sabrina Carpenter,Manchild,3
+Вечерняя прогулка,A,4,62,beabadoobee,Beaches,3
+Вечерняя прогулка,A,5,60,The Marías,Back To Me,3
+Вечерняя прогулка,B,1,65,Bicep,Lemonder,2
+Вечерняя прогулка,B,2,66,Overmono,After The Rain,3
+Вечерняя прогулка,B,3,38,Татьяна Куртукова,Матушка,2
+Вечерняя прогулка,B,4,15,"Баста, Моя Мишель",Если я буду танцевать,3
+Вечерняя прогулка,B,5,61,The Marías,Nobody New,3
+Тренировка,A,1,43,Sabrina Carpenter,Manchild,2
+Тренировка,A,2,62,beabadoobee,Beaches,2
+Тренировка,A,3,15,"Баста, Моя Мишель",Если я буду танцевать,3
+Тренировка,A,4,2,"Дора, Toxi$",ЗНАК,3
+Тренировка,A,5,41,Chappell Roan,The Giver,3
+Тренировка,B,1,65,Bicep,Lemonder,2
+Тренировка,B,2,63,Arctic Monkeys,I Bet You Look Good on the Dancefloor (Live),3
+Тренировка,B,3,57,Fontaines D.C.,Demolition,3
+Тренировка,B,4,58,Fontaines D.C.,Happy For You,2
+Тренировка,B,5,43,Sabrina Carpenter,Manchild,2
+Вечеринка,A,1,43,Sabrina Carpenter,Manchild,3
+Вечеринка,A,2,62,beabadoobee,Beaches,2
+Вечеринка,A,3,66,Overmono,After The Rain,3
+Вечеринка,A,4,2,"Дора, Toxi$",ЗНАК,3
+Вечеринка,A,5,41,Chappell Roan,The Giver,2
+Вечеринка,B,1,65,Bicep,Lemonder,1
+Вечеринка,B,2,43,Sabrina Carpenter,Manchild,3
+Вечеринка,B,3,66,Overmono,After The Rain,3
+Вечеринка,B,4,41,Chappell Roan,The Giver,2
+Вечеринка,B,5,62,beabadoobee,Beaches,2
+Грустное настроение,A,1,43,Sabrina Carpenter,Manchild,0
+Грустное настроение,A,2,62,beabadoobee,Beaches,2
+Грустное настроение,A,3,46,Chappell Roan,"Good Luck, Babe!",3
+Грустное настроение,A,4,60,The Marías,Back To Me,3
+Грустное настроение,A,5,66,Overmono,After The Rain,1
+Грустное настроение,B,1,65,Bicep,Lemonder,3
+Грустное настроение,B,2,43,Sabrina Carpenter,Manchild,0
+Грустное настроение,B,3,62,beabadoobee,Beaches,2
+Грустное настроение,B,4,15,"Баста, Моя Мишель",Если я буду танцевать,0
+Грустное настроение,B,5,66,Overmono,After The Rain,1
+Спокойный отдых,A,1,38,Татьяна Куртукова,Матушка,1
+Спокойный отдых,A,2,44,Billie Eilish,BIRDS OF A FEATHER,3
+Спокойный отдых,A,3,65,Bicep,Lemonder,2
+Спокойный отдых,A,4,74,Cleo Sol,Let Me Cry,3
+Спокойный отдых,A,5,62,beabadoobee,Beaches,3
+Спокойный отдых,B,1,65,Bicep,Lemonder,2
+Спокойный отдых,B,2,38,Татьяна Куртукова,Матушка,1
+Спокойный отдых,B,3,61,The Marías,Nobody New,3
+Спокойный отдых,B,4,44,Billie Eilish,BIRDS OF A FEATHER,3
+Спокойный отдых,B,5,73,Cleo Sol,Gentlewoman,3

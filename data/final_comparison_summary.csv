@@ -1,0 +1,4 @@
+﻿method,mean_relevance_at_5,ndcg_at_5
+A,2.44,0.666
+B,2.16,0.592
+C,2.8,0.907
