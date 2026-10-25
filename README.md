@@ -7,15 +7,29 @@
 
 - VK_Music_Recommendations_Final.ipynb — исследование и прототип
 - data/ — данные, оценки и аудиоэмбеддинги
-
+  
 ## Запуск в Google Colab
 
-1. Загрузите ZIP в среду Colab.
-2. Выполните в отдельной ячейке:
-   !unzip -q VK_Music_Recommendations_Submission.zip -d /content
-3. Откройте ноутбук из папки
-   /content/VK_Music_Recommendations_Submission/
-4. Выполняйте ячейки сверху вниз.
+1. На GitHub нажмите **Code → Download ZIP**.
+2. Откройте [Google Colab](https://colab.research.google.com/) и загрузите файл `VK_Music_Recommendations_Final.ipynb` из скачанного архива.
+3. В отдельной ячейке Colab выполните следующий код:
+
+```python
+!git clone https://github.com/unluw/vk-music-recommendations.git
+```
+
+4. После клонирования репозитория выполните:
+
+```python
+import os
+os.chdir("/content/vk-music-recommendations")
+```
+
+5. Запустите все ячейки ноутбука последовательно сверху вниз.
+
+Для демонстрации рекомендаций требуется подключение к интернету: модель LAION-CLAP загружается с Hugging Face.
+
+**Примечание:** аудиоэмбеддинги уже рассчитаны и включены в репозиторий, поэтому повторная обработка аудиофайлов не требуется.
 
 ## Локальный запуск
 
